@@ -16,7 +16,29 @@ Before you open source your project, consider the effort required to maintain it
 
 ## FAQ
 
+#### What is the purpose of this repository?
+
+The purpose is to teach how to open source a repository
+
+#### Who should someone contact if they hace questions? 
+
+contact email: pedritoperdiounclavito@mimail.com
+
+#### How should someone contact if they have questions?
+
+Sending an email to the address above 
+
+#### What are the first steps to getting started open sourcing a project?
+
+I don't know yet 
+
+#### How does this repository relate to other projects and business goals?
+
+Same 
+
 #### Who owns the code I contribute to open source projects?
+
+Me
 
 ## License
 
