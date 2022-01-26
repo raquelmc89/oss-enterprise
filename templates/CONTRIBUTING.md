@@ -9,6 +9,16 @@ Hi there! We're thrilled that you'd like to contribute to this project. Your hel
 
 Please note that this project is released with a [Contributor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
 
+## Issues
+
+
+* How to Contribute in Issues
+* Asking for General Help
+* Submitting a Bug Report
+* Triaging a Bug Report
+* Resolving a Bug Report
+* Issue Closure
+
 ## Submitting a pull request
 
 0. [Fork][fork] and clone the repository
@@ -30,3 +40,4 @@ Here are a few things you can do that will increase the likelihood of your pull 
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 - [GitHub Help](https://help.github.com)
+
