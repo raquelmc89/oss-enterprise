@@ -18,7 +18,6 @@ A great maintainer:
    - Updates the project to the latest versions of dependencies like Ruby or Java?
 - Speaks with respect and consideration
    - A good maintainer treats users and contributors fairly, kindly, and with respect.
-   - They show appreciation for contributions and are compassionate when offering feedback.
 - Enforces the code of conduct to provide a safe, supportive community
 
 ## Preparing your project for open source
