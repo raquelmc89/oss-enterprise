@@ -1,3 +1,4 @@
+
 # Availability
 
 We respond to newly opened issues within 48 hours during business hours. This is advertised in our README. It is the responsibility of the @Octocorp/maintainers team to stick to this response time.
@@ -22,7 +23,7 @@ Community members with prior contributions will be identified with a CONTRIBUTOR
 
 ### Enforcing to the code of conduct
 
-Our [CODE OF CONDUCT](templates/code-of-conduct.md) outlines the behavior we expect from our community. Maintainers are responsible for enforcing violations they witness, or those that have been reported to <EMAIL-FROM-CODE-OF-CONDUCT>.
+Our **[CODE OF CONDUCT](templates/code-of-conduct.md)** outlines the behavior we expect from our community. Maintainers are responsible for enforcing violations they witness, or those that have been reported to <EMAIL-FROM-CODE-OF-CONDUCT>.
 
 Violations are not tolerated, but there are always some gray areas.
 
